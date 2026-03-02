@@ -11,7 +11,6 @@ I built this project to practice **Semantic HTML5** and **CSS3**. Coming from a 
 ## 🛠️ Tools Used
 * **Code Editor:** Visual Studio Code
 * **Languages:** HTML5, CSS3
-* **Integration:** Embedded Google Maps API for the location section.
 
 ## 📈 Future Goals
 * Add JavaScript for an interactive shopping cart.
